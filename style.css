@@ -1,0 +1,14 @@
+p {
+  font-size: 12px;
+  color: blue;
+}
+
+body {
+  background-color: turquoise;
+  font-family: fantasy;
+}
+
+h2 {
+  color: palevioletred;
+  display: inline;
+}
